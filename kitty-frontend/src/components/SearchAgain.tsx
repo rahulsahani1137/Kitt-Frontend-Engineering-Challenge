@@ -9,7 +9,6 @@ import {
 import { Button } from './ui/button'
 import SearchBox from './SearchBox'
 import { FiSearch } from 'react-icons/fi'
-import { Separator } from './ui/separator'
 
 
 const SearchAgain = () => {
